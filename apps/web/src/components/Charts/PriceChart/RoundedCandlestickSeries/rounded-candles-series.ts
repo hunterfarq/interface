@@ -1,5 +1,5 @@
 /**
- * Copied from https://github.com/tradingview/lightweight-charts/blob/master/plugin-examples/src/plugins/rounded-candle-series/rounded-candle-series.ts
+ * Copied from https://github.com/tradingview/lightweight-charts/blob/master/plugin-examples/src/plugins/rounded-candles-series/rounded-candles-series.ts
  */
 import { RoundedCandleSeriesRenderer } from 'components/Charts/PriceChart/RoundedCandlestickSeries/renderer'
 import {
